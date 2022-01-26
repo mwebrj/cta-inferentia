@@ -20,7 +20,18 @@ Eis a necessidade atual, o **Portal-BR** precisa ser lançado!!!
 
 2. Visa atuar na transformação social através da educação
 
-3. Visa disponibilizar informaçoes qualitativas
+3. Visa disponibilizar informações com abordagens qualitativas
+
+## Item
+
+Detalhes
+
+## Item
+
+Detalhes
+## Item
+
+Detalhes
 
 ## Apoie o Inferentia
 
