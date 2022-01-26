@@ -16,11 +16,11 @@ O **Portal-BR** surgiu como um movimento nas redes sociais que teve como **princ
 
 Eis a necessidade atual, o **Portal-BR** precisa ser lançado!!!
 
-1- Visa combater a estagnação profissional
+1. Visa combater a estagnação profissional
 
-2- Visa atuar na transformação social através da educação
+2. Visa atuar na transformação social através da educação
 
-3- Visa disponibilizar informaçoes qualitativas
+3. Visa disponibilizar informaçoes qualitativas
 
 ## Apoie o Inferentia
 
