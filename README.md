@@ -16,7 +16,7 @@ Conheci várias pessoas ao longo desses anos e isso propiciou a evolução de id
 
 O **Portal-BR** surgiu como um movimento instigador aos estudos de tecnologia nas redes sociais que teve como **principal** meta atingir um grande número de pessoas e dentre estas, selecionar aquelas **com perfil** para a criação de soluções de cunho social e educacional com base de uso de conhecimentos na área da tecnologia. Com grupos no Facebook, Telegram, Discord e algumas outras, temos mais de 20 mil participantes atualmenbte e projetamos alcançar 50 mil integrantes em até pouco mais de seis meses, por volta de Agosto de 2022.
 
-Já temos alguns produtos com lançamento programado, como a Biblioteca
+Já temos alguns produtos com lançamento programado, como ebooks de linguagens de programação para a Ediotora Elétrica, em parceria com a [KobKob](https://kobkob.org)
 
 Eis a necessidade atual, o **Portal-BR** precisa ser efetivamente lançado!!!
 
