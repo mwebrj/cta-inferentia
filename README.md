@@ -8,7 +8,7 @@ Na nossa história mais recente como humanidade, a *pandemia*, apesar dos males 
 
 Uma observação criteriosa desses últimos vinte anos no ambiente o qual estamos inseridos, condiderando ainda o estágio evolutivo em que a nossa sociedade se encontra nos mostra que há um campo enorme com imensas possibilidades de atuação. Soma-se a isso a tentativa de antever o que o futuro nos sinaliza e em uma projeção o nível que deveríamos estar, a necessidade de avançar se faz necessária neste momento. Há muita evolução tecnológica que nos permite estar muito mais evoluídos como seres humanos e pensantes.
 
-Conheci várias pessoas ao longo desses anos e isso propiciou a evolução de ideias e projetos que visam o desenvolvimento coletivo. Com algumas destas, montamos um projeto de cunho social/educacional e estamos atualmente na fase de implantação efetiva do mesmo. É o que nomeamos de Portal-BR.
+Conheci várias pessoas ao longo desses anos, em diversos níveis de evolução tecnológica propriamente dito e isso propiciou a evolução de ideias e projetos que visam o desenvolvimento coletivo. Dentre estas ideias, montamos um projeto de cunho social/educacional e estamos atualmente na fase de implantação efetiva do mesmo. É o que nomeamos de Portal-BR.
 
 ## Portal-BR
 
