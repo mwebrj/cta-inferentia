@@ -2,13 +2,11 @@
 
 ## Motivador
 
-Acredito plenamente que todo **problema** é um motivador que pode gerar mudanças. É uma oportunidade para evoluirmos como um todo. Desde os primórdios tem sido assim.
+Acreditamos plenamente que em todo **problema** há uma possibilidade de gerar mudanças. Pode ser encarado como uma oportunidade para evoluirmos no âmbito individual e coletivo. Desde os primórdios tem sido assim.
 
-A *pandemia* escancarou aquilo que já vinhamos comentando há alguns anos, que havia a necessidade de evoluir no **aprendizado** das ferramentas já disponibilizadas e a adoção de **novas formas** de encarar e resolver problemas.
+Na nossa história mais recente como humanidade, a *pandemia*, apesar dos males incalculáveis, escancarou o que já vinhamos percebendo sutilmente há alguns anos, a observação que havia a extrema necessidade de evoluir no **aprendizado** das principais ferramentas disponibilizadas, especialmente no âmbito tecnológico e a imperiosa adoção de **novas estratégias** para encarar e resolver problemas.
 
-Passei esses últimos dez anos observando o ambiente no qual estamos inseridos, no estágio evolutivo em que a nossa sociedade se encontra. E tentando antever em uma projeção o nível que deveríamos estar. Há muita evolução tecnológica que nos permite estar muito mais evoluídos como seres pensantes.
-
-Retornei aos estudos em busca da **graduação** em uma instituição de nível superior, atuei em **home office** numa atividade que muito me identificava, mudei de Estado, saindo do Ceará para o Rio de Janeiro.
+Uma observação criteriosa desses últimos vinte anos no ambiente o qual estamos inseridos, condiderando ainda o estágio evolutivo em que a nossa sociedade se encontra nos mostra que há um campo enorme com imensas possibilidades de atuação. Soma-se a isso a tentativa de antever o que o futuro nos sinaliza e em uma projeção o nível que deveríamos estar, a necessidade de avançar se faz necessária neste momento. Há muita evolução tecnológica que nos permite estar muito mais evoluídos como seres humanos e pensantes.
 
 Conheci várias pessoas ao longo desses anos e isso propiciou a evolução de ideias e projetos que visam o desenvolvimento coletivo. Com algumas destas, montamos um projeto de cunho social/educacional e estamos atualmente na fase de implantação efetiva do mesmo. É o que nomeamos de Portal-BR.
 
