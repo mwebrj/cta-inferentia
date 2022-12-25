@@ -40,7 +40,7 @@ Com isso atingimos a necessidade atual, o **Portal-BR** precisa ser efetivamente
 
 Inicialmente o projeto será financiado por meio de doações de apoiadores, para cobrir os gastos com infraestrutura, pagamento a desenvolvedores da plataforma, criadores de conteúdo, editores dos ebooks, instrutores e equipe do administrativo.
 
-A partir da criação de produtos e a entrada de apoiadores, o projeto já deverá render o suficiente para garantir a sobrevivência econômica e a consequente ampliação da equipe. Os integrantes da equipe terão valores monetários diferenciados e superiores aos praticados pelo mercado quando o projeto atingir a maturidade financeira
+A partir da criação de produtos e a criação de um grupo de apoiadores, o projeto já deverá render o suficiente para garantir a sobrevivência econômica e a consequente ampliação da equipe. Os integrantes da equipe terão valores monetários diferenciados e superiores aos praticados pelo mercado quando o projeto atingir a maturidade financeira
 
 ## Saiba mais
 
