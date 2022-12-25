@@ -24,23 +24,28 @@ Com isso atingimos a necessidade atual, o **Portal-BR** precisa ser efetivamente
 
 2. Visa atuar na transformação social através da educação inclusiva;
 
-3. Visa disponibilizar informações com abordagens qualitativas
+3. Visa disponibilizar informações com abordagens qualitativas usando técnicas de ciência de dados e inteligência artificial;
 
-## Premissas
+### Premissas
 
-1. O projeto ***Inferentia** será criado tomando como base o aprendizsado do **Portal-BR**
+1. O projeto ***Inferentia** será criado tomando como base o aprendizado do **Portal-BR**
 
-2. O produto será entregue em quatro formatos: aprendiz, júnior, pleno, senior
+2. O produto será disponibilizado em quatro formatos: aprendiz, júnior, pleno, senior
 
-3.
+3. Haverá um pacote com conteúdo gratuito, para demonstrar o formato utilizado no **Inferentia**
+
+4. Estudos mais avançados, com especialistas em tecnologia da informação será a busca na sequência do **Inferentia***
+
+## Investimentos
+
+Inicialmente o projeto será financiado por meio de doações de apoiadores, para cobrir os gastos com infraestrutura, pagamento a desenvolvedores da plataforma, criadores de conteúdo, editores dos ebooks, instrutores e equipe do administrativo.
+
+A partir da criação de produtos, o projeto já pode render o suficiente para garantir a sobrevivência econômica.
 
 ## Item
 
 Detalhes
-## Item
 
-Detalhes
+## Apoio ao projeto
 
-## Apoie o Portal-BR
-
-O dinheiro será usado para educação, serviços sociais e "housing" dos envolvidos.
+A nossa equipe será composta por O dinheiro será usado para educação, serviços sociais e "housing" dos envolvidos.
