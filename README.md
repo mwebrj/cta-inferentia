@@ -42,9 +42,11 @@ Inicialmente o projeto será financiado por meio de doações de apoiadores, par
 
 A partir da criação de produtos, o projeto já pode render o suficiente para garantir a sobrevivência econômica.
 
-## Item
+## Saiba mais
 
-Detalhes
+Acesse o nosso site [inferentia](https://inferentia.com.br)
+
+Conheça nosso [canal no telegram](https://t.me/inferentia)
 
 ## Apoio ao projeto
 
