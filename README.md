@@ -34,7 +34,7 @@ Com isso atingimos a necessidade atual, o **Portal-BR** precisa ser efetivamente
 
 3. Haverá um pacote com conteúdo gratuito, para demonstrar o formato utilizado no **Inferentia**
 
-4. Estudos mais avançados, com especialistas em tecnologia da informação será a busca na sequência do **Inferentia***
+4. Estudos mais avançados, com especialistas em tecnologia da informação será a busca na sequência do **Inferentia**
 
 ## Investimentos
 
