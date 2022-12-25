@@ -12,21 +12,27 @@ Conheci várias pessoas ao longo desses anos, em diversos níveis de evolução 
 
 ## Portal-BR
 
-O **Portal-BR** surgiu como um movimento instigador aos estudos de tecnologia nas redes sociais que teve como **principal** meta atingir um grande número de pessoas e dentre estas, selecionar aquelas **com perfil** para a criação de soluções de cunho social e educacional com base de uso de conhecimentos na área da tecnologia. Com grupos no Facebook, Telegram, Discord e algumas outras, temos mais de 20 mil participantes atualmenbte e projetamos alcançar 50 mil integrantes em até pouco mais de seis meses, por volta de Agosto de 2022.
+O **Portal-BR** surgiu na rede social como um movimento instigador aos adeptos aos estudos de tecnologia que teve como **principal** meta atingir um grande número de pessoas e dentre estas, selecionar as **com perfil** para a criação de iniciativas que visam a busca por soluções de cunho social e educacional com base no uso de conhecimentos no âmbito da área da tecnologia. 
 
-Já temos alguns produtos com lançamento programado, como ebooks de linguagens de programação para a Ediotora Elétrica, em parceria com a [KobKob](https://kobkob.org)
+Inicialmente contou com grupos no Facebook, Telegram, Discord e algumas outras redes e a iniciativa abrangeu mais de 20 mil participantes e projetamos alcançar 50 mil integrantes em até pouco mais de seis meses, por volta de Agosto de 2023.
 
-Eis a necessidade atual, o **Portal-BR** precisa ser efetivamente lançado!!!
+Já temos alguns produtos com lançamento programado, como ebooks de linguagens de programação para a Editora Elétrica, em parceria com a [KobKob](https://kobkob.org)
 
-1. Visa combater a estagnação profissional
+Com isso atingimos a necessidade atual, o **Portal-BR** precisa ser efetivamente lançado!!!
 
-2. Visa atuar na transformação social através da educação
+1. Visa combater a estagnação profissional;
+
+2. Visa atuar na transformação social através da educação inclusiva;
 
 3. Visa disponibilizar informações com abordagens qualitativas
 
-## Item
+## Premissas
 
-Detalhes
+1. O projeto ***Inferentia** será criado tomando como base o aprendizsado do **Portal-BR**
+
+2. O produto será entregue em quatro formatos: aprendiz, júnior, pleno, senior
+
+3.
 
 ## Item
 
