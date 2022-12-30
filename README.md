@@ -50,4 +50,4 @@ Conheça nosso [canal no telegram](https://t.me/inferentia)
 
 ## Apoio ao projeto
 
-A nossa equipe será composta por O dinheiro será usado para educação, serviços sociais e "housing" dos envolvidos.
+A nossa equipe será composta por profissionais qualifoicados e identificados com a filosofia do software livre, embora tenhamos a consciência de cumprir com as responsabilidades civis dos integrantes. O dinheiro será usado para educação, serviços sociais, ampliação do projeto e "housing" dos envolvidos.
